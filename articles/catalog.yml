@@ -2,9 +2,15 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - ch_purpose_of_tdd.re
+  - ch_technology_selection.re
+  - ch_tdd_using_cpputest.re
+  - ch_test_knowledge.re
+  - ch_summary.re
 
 APPENDIX:
+  - apx_dev_env.re
+  - apx_reference_doc.re
 
 POSTDEF:
   - contributors.re

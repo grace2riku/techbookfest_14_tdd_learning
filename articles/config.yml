@@ -19,13 +19,13 @@ review_version: 5.7
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
 #bookname: ReVIEW-Template
-bookname: テスト駆動開発(TDD)の学びを共有する本(組込みソフトウェア成分多め)
+bookname: テスト駆動開発(TDD)の学びを共有する本(組込みソフトウェア要素多め)
 # 記述言語。省略した場合はja
 language: ja
 
 # 書名
 #booktitle: {name: "Re:VIEWテンプレート", file-as: "reviewテンプレート"}
-booktitle: {name: "テスト駆動開発(TDD)の学びを共有する本(組込みソフトウェア成分多め)", file-as: "テスト駆動開発(TDD)の学びを共有する本(組込みソフトウェア成分多め)"}
+booktitle: {name: "テスト駆動開発(TDD)の学びを共有する本(組込みソフトウェア要素多め)", file-as: "テスト駆動開発(TDD)の学びを共有する本(組込みソフトウェア要素多め)"}
 
 # 著者名。「, 」で区切って複数指定できる
 #aut: [{name: "TechBooster編", file-as: "techboosterヘン"}]
